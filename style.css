@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(247, 242, 243);
+    text-align: center;
+    margin: 12px;
+}
+h3, h4{
+    padding: 12px;
+}
+#btn{
+    background-color: pink;
+    border: 2px solid pink;
+    color: rgb(46, 66, 68);
+}
+table{
+    margin-left: 45%;
+   
+}
+table thead{
+    background-color: powderblue;
+}
